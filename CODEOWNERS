@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ljharb
+/src/backend/database.py      @ljharb
+/src/backend/routers/auth.py  @ljharb
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ljharb
